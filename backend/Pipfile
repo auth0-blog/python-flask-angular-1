@@ -9,6 +9,9 @@ name = "pypi"
 
 sqlalchemy = "*"
 "psycopg2-binary" = "*"
+flask = "*"
+marshmallow = "*"
+flask-cors = "*"
 
 
 [dev-packages]
